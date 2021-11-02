@@ -6,8 +6,9 @@
 ### ⚙️ &nbsp;My GitHub Analytics
 <p></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=go-nagyeong&show_icons=true&hide=prs,contribs&bg_color=0E1116&text_color=CAD1D8&border_radius=30)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&layout=compact&bg_color=0E1116&text_color=CAD1D8&border_radius=30)  
+<img style="height:140px" src="https://github-readme-stats.vercel.app/api?username=go-nagyeong&show_icons=true&hide=prs,contribs&bg_color=0E1116&text_color=CAD1D8&border_radius=30&card_width=300"/>
+<img style="height:140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&layout=compact&bg_color=0E1116&text_color=CAD1D8&border_radius=30"/>
+  
 &nbsp;
 
 ### 🛠 &nbsp;Tech Stack
