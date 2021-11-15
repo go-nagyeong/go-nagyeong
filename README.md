@@ -24,13 +24,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7354AD?style=flat-square&logo=Bootstrap&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-B84F3C?style=flat-square&logo=Oracle&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/Mysql-557F9A?style=flat-square&logo=Mysql&logoColor=white)\
-![Git](https://img.shields.io/badge/Git-E25A38?style=flat-square&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181B21?style=flat-square&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)\
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3E82CA?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2A2353?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-8AC686?style=flat-square&logo=Atom&logoColor=white)&nbsp;
-![RStudio](https://img.shields.io/badge/RStudio-80A9D7?style=flat-square&logo=rstudio&logoColor=white)  
+![RStudio](https://img.shields.io/badge/RStudio-80A9D7?style=flat-square&logo=rstudio&logoColor=white)\
+  ![Git](https://img.shields.io/badge/Git-E25A38?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181B21?style=flat-square&logo=github&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)\
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-4382F7?style=flat-square&logo=jira&logoColor=white)&nbsp;  
 &nbsp;
 
 ### 📧 &nbsp;Connect with me
