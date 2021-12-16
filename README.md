@@ -6,8 +6,8 @@
 ### ⚙️ &nbsp;My GitHub Analytics
 <p></p>
 
-<img style="height:140px" src="https://github-readme-stats.vercel.app/api?username=go-nagyeong&show_icons=true&hide=prs,contribs&bg_color=0E1116&text_color=CAD1D8&border_radius=30&card_width=300&custom_title=My Github Stats"/>
-<img style="height:140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&layout=compact&bg_color=0E1116&text_color=CAD1D8&border_radius=30"/>
+<img style="height:160px;" src="https://github-readme-stats.vercel.app/api?username=go-nagyeong&text_color=CAD1D8&bg_color=0E1116&border_radius=30&hide=contribs&show_icons=true&custom_title=My Github Stats"/>
+<img style="height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&text_color=CAD1D8&bg_color=0E1116&border_radius=30&layout=compact"/>
   
 &nbsp;
 
