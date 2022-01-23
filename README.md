@@ -39,7 +39,7 @@
 ***deployment***　　
 ![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=E25A38)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=black)&nbsp;
-![GitLab](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitLab)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-white?style=flat-square&logo=GitLab)&nbsp;
   
 ***business tools***　　
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)&nbsp;
