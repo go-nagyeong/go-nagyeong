@@ -1,13 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=0:463DAE,50:2B89AB,100:82AF91&fontColor=CAD1D8&height=220&section=header&text=Welcome%20to&desc=go-nagyeong's%20Github&descAlignY=76&descAlign=65&descSize=25&animation=fadeIn&fontSize=90)  
-&nbsp;
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=0:34e89e,80:0f3443&text=Welcome%20to&fontColor=f0f0f0&fontSize=50&fontAlign=35&fontAlignY=37&desc=go-nagyeong's%20Github&descSize=25&descAlign=67&descAlignY=39&animation=twinkling)
 
 ### ⚙️ &nbsp;My GitHub Analytics
 <p></p>
 
-<img style="height:155px;" src="https://github-readme-stats.vercel.app/api?username=go-nagyeong&text_color=CAD1D8&bg_color=0E1116&border_radius=30&hide=contribs&show_icons=true&custom_title=My Github Stats"/>
-<img style="height:155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&text_color=CAD1D8&bg_color=0E1116&border_radius=30&layout=compact"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=go-nagyeong&border_radius=30&hide=contribs&show_icons=true&custom_title=My%20Github%20Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&border_radius=30&layout=compact)
   
 &nbsp;
 
@@ -41,6 +40,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=black)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-white?style=flat-square&logo=GitLab)&nbsp;
   
+***business tools***　　
+![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)&nbsp;
+  
+&nbsp;
+
+### 📧 &nbsp;Connect with me
+<p></p>
+
+[![Gmail](https://img.shields.io/badge/ngkim.dev@gmail.com-C84031?style=flat-square&logo=Gmail&logoColor=white)](mailto:ngkim.dev@gmail.com)
+
+</div>
+
 ***business tools***　　
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)&nbsp;
   
