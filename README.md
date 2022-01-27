@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=0:34e89e,80:0f3443&text=Welcome%20to&fontColor=f0f0f0&fontSize=50&fontAlign=34&fontAlignY=37&desc=go-nagyeong's%20Github&descSize=25&descAlign=67&descAlignY=39&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=0:463DAE,50:2B89AB,100:82AF91&fontColor=f0f0f0&height=220&section=header&text=Welcome%20to&fontAlignY=31&fontAlign=34&desc=go-nagyeong's%20Github&descAlignY=39&descAlign=75&descSize=25&animation=fadeIn&fontSize=65)
 
 ### ⚙️ &nbsp;My GitHub Analytics
 <p></p>
