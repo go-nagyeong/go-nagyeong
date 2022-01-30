@@ -51,15 +51,3 @@
 [![Gmail](https://img.shields.io/badge/ngkim.dev@gmail.com-C84031?style=flat-square&logo=Gmail&logoColor=white)](mailto:ngkim.dev@gmail.com)
 
 </div>
-
-***business tools***　　
-![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)&nbsp;
-  
-&nbsp;
-
-### 📧 &nbsp;Connect with me
-<p></p>
-
-[![Gmail](https://img.shields.io/badge/ngkim.dev@gmail.com-C84031?style=flat-square&logo=Gmail&logoColor=white)](mailto:ngkim.dev@gmail.com)
-
-</div>
