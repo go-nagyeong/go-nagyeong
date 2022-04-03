@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F3E050)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-EDEEF0?style=flat-square&logo=HTML5&logoColor=D65C37)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-EDEEF0?style=flat-square&logo=CSS3&logoColor=3371B3)&nbsp;
-![React](https://img.shields.io/badge/React-222222?style=flat-square&logo=React&logoColor=66D0F1)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-222222?style=flat-square&logo=react&logoColor=66D0F1)&nbsp;
 
 ***back-end***　　
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F3E050)&nbsp;
