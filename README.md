@@ -14,31 +14,36 @@
 <p></p>
 
 ***front-end***　　
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F3E050)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-EDEEF0?style=flat-square&logo=HTML5&logoColor=D65C37)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-EDEEF0?style=flat-square&logo=CSS3&logoColor=3371B3)&nbsp;
-![React Native](https://img.shields.io/badge/React%20Native-222222?style=flat-square&logo=react&logoColor=66D0F1)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F3E050)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=D65C37)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=3371B3)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-white?style=flat-square&logo=React&logoColor=66D0F1)&nbsp;
 
 ***back-end***　　
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F3E050)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F3E050)&nbsp;
 ![Java](https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=CF342F)&nbsp;
 ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=4672A1)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask&logoColor=black)&nbsp;
-
+  
 ***database***　　
-![MySQL](https://img.shields.io/badge/Mysql-white?style=flat-square&logo=Mysql&logoColor=557F9A)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=557F9A)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-white?style=flat-square&logo=Oracle&logoColor=B84F3C)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=flat-square&logo=Firebase&logoColor=F7CD51)&nbsp;
   
-***dev tools***　　
+ ***tools***　　
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=3E82CA)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-white?style=flat-square&logo=Eclipse%20IDE&logoColor=423782)&nbsp;
-![Atom](https://img.shields.io/badge/Atom-74B382?style=flat-square&logo=Atom&logoColor=white)&nbsp;
-
-***deployment***　　
+![Atom](https://img.shields.io/badge/Atom-white?style=flat-square&logo=Atom&logoColor=74B382)&nbsp;
+  
+***server***　　
+![Apache](https://img.shields.io/badge/Apache-white?style=flat-square&logo=Apache&logoColor=AA3046)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-white?style=flat-square&logo=Nginx&logoColor=429445)&nbsp;
+  
+***devOps***　　
+![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&logo=Amazon%20AWS&logoColor=E25A38)&nbsp;
 ![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=E25A38)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=black)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-white?style=flat-square&logo=GitLab)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-white?style=flat-square&logo=GitLab&logoColor=black)&nbsp;
   
 ***business tools***　　
 ![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)&nbsp;
