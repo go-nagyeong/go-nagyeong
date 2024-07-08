@@ -1,58 +1,48 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=GO-NAGYEONG&section=header&reversal=false&textBg=false&fontColor=000&fontAlign=50&fontAlignY=51&rotate=0)
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=0:463DAE,50:2B89AB,100:82AF91&fontColor=f0f0f0&height=220&section=header&text=Welcome%20to&fontAlignY=31&fontAlign=34&desc=go-nagyeong's%20Github&descAlignY=39&descAlign=75&descSize=25&animation=fadeIn&fontSize=65)
+## 🛠 &nbsp;Tech Stack
+  
+### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+### Back-end
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+### App
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+### Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ⚙️ &nbsp;My GitHub Analytics
-<p></p>
+### Server / Infa
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=go-nagyeong&border_radius=30&hide=contribs&show_icons=true&custom_title=My%20Github%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=go-nagyeong&border_radius=30&layout=compact)
+### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-darkorchid?style=for-the-badge&logo=phpstorm&logoColor=black)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+### Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+### Business Tools
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 &nbsp;
 
-### 🛠 &nbsp;Tech Stack
-<p></p>
-
-***front-end***　　
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F3E050)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=D65C37)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=3371B3)&nbsp;
-![React Native](https://img.shields.io/badge/React%20Native-white?style=flat-square&logo=React&logoColor=66D0F1)&nbsp;
-
-***back-end***　　
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=F3E050)&nbsp;
-![Java](https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=CF342F)&nbsp;
-![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=4672A1)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=Flask&logoColor=black)&nbsp;
+## 📧 &nbsp;Connect with me
   
-***database***　　
-![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=557F9A)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-white?style=flat-square&logo=Oracle&logoColor=B84F3C)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-white?style=flat-square&logo=Firebase&logoColor=F7CD51)&nbsp;
-  
- ***tools***　　
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-white?style=flat-square&logo=Visual%20Studio%20Code&logoColor=3E82CA)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-white?style=flat-square&logo=Eclipse%20IDE&logoColor=423782)&nbsp;
-![Atom](https://img.shields.io/badge/Atom-white?style=flat-square&logo=Atom&logoColor=74B382)&nbsp;
-  
-***server***　　
-![Apache](https://img.shields.io/badge/Apache-white?style=flat-square&logo=Apache&logoColor=AA3046)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-white?style=flat-square&logo=Nginx&logoColor=429445)&nbsp;
-  
-***devOps***　　
-![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&logo=Amazon%20AWS&logoColor=E25A38)&nbsp;
-![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=E25A38)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=GitHub&logoColor=black)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-white?style=flat-square&logo=GitLab&logoColor=black)&nbsp;
-  
-***business tools***　　
-![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black)&nbsp;
-  
-&nbsp;
-
-### 📧 &nbsp;Connect with me
-<p></p>
-
-[![Gmail](https://img.shields.io/badge/ngkim.dev@gmail.com-C84031?style=flat-square&logo=Gmail&logoColor=white)](mailto:ngkim.dev@gmail.com)
-
-</div>
+[![Gmail](https://img.shields.io/badge/ngkim.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngkim.dev@gmail.com)
