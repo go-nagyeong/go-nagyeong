@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&text=GO-NAGYEONG&section=header&reversal=false&textBg=false&fontColor=000&fontAlign=50&fontAlignY=51&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=GO-NAGYEONG&section=header&reversal=false&textBg=false&fontColor=000&fontAlign=50&fontAlignY=51&rotate=0)
 
 ## 🛠 &nbsp;Tech Stack
   
